@@ -10,4 +10,5 @@ I did not encounter much obstacles or problems as I had Node.js already installe
 
 ## References
 1: https://vimeo.com/410362068
+
 2: https://sailsjs.com/about
