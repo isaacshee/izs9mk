@@ -21,6 +21,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### Reasons
+Commercial Use, Modification, Distribution, Private use
 
-
-
+I would choose a MIT license as it covers a wide base of uses as well as it gives the user the license to modify and distribute whether for a commercial purpose or private one.
