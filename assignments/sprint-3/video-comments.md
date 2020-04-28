@@ -1,2 +1,3 @@
 # Video comments for CHAOSS Evolution Working Group, April 8 2020
 
+After watching the video, I can observe that there was a lot of back and forth in terms of discussion between the members of the call. Particularly, between Dr. Goggins and Carter I believe, when discussing how to define the metric that will be as precise as possible. One example was when the two of them were talking about 'cut-offs' for the metric, which is about user retention and interest via commits. The lesson I learned from this is that, to define and describe a seemly straightforward metric can involve a lot of careful thought and discussion between people, and this just puts things in perspective in terms of scope and scale of an Open Source Project.
